@@ -1,0 +1,12 @@
+bcrypt
+cryptography
+passlib
+flask-bcrypt
+flask-login
+flask-security
+sqlalchemy
+flask-sqlalchemy
+flask-uploads
+flask-wtf
+flask-weasyprint
+frozen-flask
