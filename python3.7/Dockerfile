@@ -4,7 +4,7 @@ LABEL maintainer="Sebastian Ramirez <tiangolo@gmail.com>"
 
 RUN pip install flask
 COPY requirements.txt /
-RUN pip install -r requirements.txt
+RUN pip3 install -r /requirements.txt
 
 # By default, allow unlimited file sizes, modify it to limit the file sizes
 # To have a maximum of 1 MB (Nginx's default) change the line to:
