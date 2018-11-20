@@ -6,6 +6,7 @@ flask-login
 flask-security
 sqlalchemy
 pymysql
+mysql-connector
 flask-sqlalchemy
 flask-uploads
 flask-wtf
